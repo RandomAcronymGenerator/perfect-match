@@ -1,5 +1,3 @@
-# if toggle:
-#    agent = agent * 2
 global num1
 global num2
 global amount1
